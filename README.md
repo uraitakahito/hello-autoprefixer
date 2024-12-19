@@ -1,3 +1,3 @@
 ```console
-% postcss src/*.css --use autoprefixer -d dist
+% postcss src/*.css -d dist
 ```
